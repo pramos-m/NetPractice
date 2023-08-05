@@ -1,10 +1,10 @@
 # 42-net-practice
 
-## 🪧 Overview
+## 🔎 Overview
 🌐  NetPractice is an exciting web application designed to help you explore the fascinating world of networking. Gain practical knowledge and experience in networking concepts and challenges through this interactive platform.
 
 ## 📷 Preview
-![preview](imgs/preview.png)
+![preview](img/preview.png)
 
 ## 🕹️ How to Use
 1. Access the 10 levels of training exercises.
